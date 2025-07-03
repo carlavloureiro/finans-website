@@ -2,6 +2,8 @@
 
 Projeto simples para ajudar a gerenciar suas finanças pessoais com uma interface limpa e fácil de usar.
 
+![Preview da Interface](./public/images/print-screenshot.png)
+
 
 ---
 
