@@ -2,9 +2,6 @@
 
 Projeto simples para ajudar a gerenciar suas finanças pessoais com uma interface limpa e fácil de usar.
 
-![Preview da Interface](./public/img/screenshot.png)
-
-
 ---
 
 ## Sobre o Projeto 📝
@@ -57,3 +54,4 @@ node server.js
 ```bash
 http://localhost:3000
 ```
+![Preview da Interface](./public/img/screenshot.png)
