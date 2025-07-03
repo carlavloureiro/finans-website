@@ -12,7 +12,29 @@ Projeto simples para ajudar a gerenciar suas finanças pessoais com uma interfac
 
 ---
 
-## Como Rodar Localmente 🚀
+## 🚀 Tecnologias Utilizadas
+
+Este projeto foi construído utilizando as seguintes tecnologias:
+
+### Frontend
+
+- **HTML5:** Estrutura semântica das páginas.
+- **CSS3:** Estilização personalizada.
+- **Bootstrap:** Framework CSS para um design responsivo e componentes pré-estilizados de forma ágil.
+
+### Backend
+
+- **Node.js:** Ambiente de execução JavaScript para o servidor.
+- **Express.js (provável):** Framework web para Node.js, facilitando a criação de rotas e manipulação de requisições.
+- **SQLite:** Banco de dados leve e integrado, utilizado para o armazenamento e validação dos e-mails cadastrados.
+
+---
+
+## 🛠️ Como Rodar o Projeto Localmente
+
+Siga estas etapas para configurar e executar o projeto em sua máquina:
+
+- **Pré-requisitos:** Certifique-se de ter o Node.js e o npm (gerenciador de pacotes do Node.js) instalados.
 
 1. Clone o projeto:
 
