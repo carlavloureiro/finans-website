@@ -2,6 +2,7 @@
 
 Projeto simples para ajudar a gerenciar suas finanças pessoais com uma interface limpa e fácil de usar.
 
+
 ---
 
 ## Sobre o Projeto 📝
@@ -39,7 +40,7 @@ Siga estas etapas para configurar e executar o projeto em sua máquina:
 1. Clone o projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/carlavloureiro/finans-website.git
 cd seu-repositorio
 ```
 2-Instale as dependências:
