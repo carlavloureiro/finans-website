@@ -1,0 +1,22 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+	color: #2e1f1c;
+}
+
+.caixa {
+	padding: 60px 0;
+	border: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
