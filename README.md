@@ -1,7 +1,7 @@
 # Finans 💰 - Gestor de Finanças Pessoais
 
 Projeto simples para ajudar a gerenciar suas finanças pessoais com uma interface limpa e fácil de usar.
-Link website: https://carlavloureiro.github.io/finans-website/
+- Link website: https://carlavloureiro.github.io/finans-website/
 
 ---
 
